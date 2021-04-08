@@ -34,7 +34,8 @@ form{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center
+    align-items: center;
+    border-radius: 6px;
 }
 .box{
     margin: 4px 5px;
